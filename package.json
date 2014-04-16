@@ -28,10 +28,10 @@
   "dependencies": {},
   "devDependencies": {
     "lab": "0.1.x",
-    "hapi": "3.x.x"
+    "hapi": "4.x.x"
   },
   "peerDependencies": {
-    "hapi": "3.x.x"
+    "hapi": "4.x.x"
   },
   "keywords": [
     "hapi",
